@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/xtutran">
-    <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=xtutran&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=86400&theme=gotham" />
+    <img alt="GitHub Streak" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=xtutran&theme=gotham" />
     <img alt="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtutran&cache_seconds=86400&layout=compact&theme=gotham&langs_count=8&count_private=true&hide=html" />
+    
   </a>
 </p>
-
 <!--
 **xtutran/xtutran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
